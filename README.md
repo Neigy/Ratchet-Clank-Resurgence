@@ -1,5 +1,6 @@
-![Resurgance7](https://github.com/user-attachments/assets/69e38eac-3c58-4c67-a89f-190fbd042c9f)
+![Resurgance7](https://github.com/user-attachments/assets/8a865af0-ee1a-438f-b15c-892528a51be8)
 Modding project for Ratchet &amp; Clank PS3 titles, enhancing gameplay and visuals.
+
 
 ## Introduction
 

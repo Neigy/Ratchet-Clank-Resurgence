@@ -1,9 +1,10 @@
-# Ratchet-Clank-Resurgence
+![Resurgance7](https://github.com/user-attachments/assets/69e38eac-3c58-4c67-a89f-190fbd042c9f)
 Modding project for Ratchet &amp; Clank PS3 titles, enhancing gameplay and visuals.
 
 ## Introduction
 
-**Ratchet & Clank: Resurgence** is a modding project born from my passion for the Ratchet & Clank games on PS3, which have been a significant part of my childhood. After years of playing these titles, I felt the need to give them a second life by introducing modifications and improvements. The main goal of this project is to reignite the community's interest in these games and provide a refreshed experience for both fans and new players.
+**Ratchet & Clank: Resurgence** is a modding project born from my passion for the Ratchet & Clank games on PS3, which have been a significant part of my childhood. After years of playing these titles, I felt the need to give them a second life by introducing modifications and improvements.
+ The main goal of this project is to reignite the community's interest in these games and provide a refreshed experience for both fans and new players.
 
 While working on this project, I hope not only to bring joy to the community but also to learn and enjoy the development process. This project is, above all, a tribute to games that have meant a lot to me, and I hope it resonates with other enthusiasts.
 

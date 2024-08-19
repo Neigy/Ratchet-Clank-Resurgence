@@ -55,7 +55,7 @@ To keep up with the latest project news, you can check out [our YouTube channel]
 Special thanks to:
 
 - **Veld** (Discord: veld.dev)): For invaluable help with reverse engineering and coding.
-- **Adam-C-02**: For significant assistance with testing and textures.(and a big mental support ngl) 
+- **Adam_c_02**: Who made our logo and for significant assistance with testing and textures.(and a big mental support ngl) 
 - **Nefarious Tech Support**: For extensive work on PS3 game development and reverse engineering, including level visualizers and guidance on modding techniques.
 
 

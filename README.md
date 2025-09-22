@@ -47,7 +47,7 @@ If you wish to contribute to the **Ratchet & Clank: Resurgence** project, the be
 
 ## Contact & Support
 
-To keep up with the latest project news, you can check out [our YouTube channel](https://www.youtube.com/@RatchetClankResurgenceProj-e9p/featured), where updates will be posted. I’m considering creating a dedicated Discord server, but that might come later. In the meantime, for any questions or technical support, you can reach me directly on Discord (**uy_ymir**). I’m available to answer your questions and assist with any issues.
+To keep up with the latest project news, you can check out [our YouTube channel](https://youtu.be/OCBVYGAexv8), where updates will be posted. I’m considering creating a dedicated Discord server, but that might come later. In the meantime, for any questions or technical support, you can reach me directly on Discord (**uy_ymir**). I’m available to answer your questions and assist with any issues.
 
 
 ## Credits
